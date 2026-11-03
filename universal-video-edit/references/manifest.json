@@ -1,0 +1,12 @@
+{
+  "source_filename": "e84c8ac4e3860b3561f9b5c21ed41735_raw.mp4",
+  "duration_seconds": 522.7,
+  "decoded_sample_frames": 1045,
+  "delivered_index_frames": 523,
+  "timeline_visual_sections": 89,
+  "dense_motion_groups": 8,
+  "asr_segments_uncorrected": 307,
+  "ocr_samples_uncorrected": 523,
+  "installed_globally": false,
+  "rendered_new_video": false
+}

@@ -1,0 +1,902 @@
+{
+  "version": 2,
+  "fps": 60,
+  "output_size": [
+    1920,
+    1080
+  ],
+  "duration": 44,
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "avatar_crop": [
+    0.2,
+    0.1,
+    0.8,
+    0.6
+  ],
+  "music": {
+    "mode": "none"
+  },
+  "assets": {
+    "clip_a": {
+      "path": "media/a.mp4",
+      "type": "video"
+    },
+    "clip_b": {
+      "path": "media/b.mp4",
+      "type": "video"
+    },
+    "clip_c": {
+      "path": "media/c.mp4",
+      "type": "video"
+    },
+    "screen": {
+      "path": "media/screen.png",
+      "type": "image"
+    }
+  },
+  "captions": [
+    {
+      "start": 0,
+      "end": 2,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 0.3,
+          "end": 1.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 0.3,
+          "end": 1.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 2,
+      "end": 4,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 2.3,
+          "end": 3.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 2.3,
+          "end": 3.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 4,
+      "end": 6,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 4.3,
+          "end": 5.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 4.3,
+          "end": 5.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 6,
+      "end": 8,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 6.3,
+          "end": 7.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 6.3,
+          "end": 7.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 8,
+      "end": 10,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 8.3,
+          "end": 9.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 8.3,
+          "end": 9.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 10,
+      "end": 12,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 10.3,
+          "end": 11.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 10.3,
+          "end": 11.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 12,
+      "end": 14,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 12.3,
+          "end": 13.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 12.3,
+          "end": 13.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 14,
+      "end": 16,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 14.3,
+          "end": 15.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 14.3,
+          "end": 15.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 16,
+      "end": 18,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 16.3,
+          "end": 17.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 16.3,
+          "end": 17.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 18,
+      "end": 20,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 18.3,
+          "end": 19.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 18.3,
+          "end": 19.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 20,
+      "end": 22,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 20.3,
+          "end": 21.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 20.3,
+          "end": 21.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 22,
+      "end": 24,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 22.3,
+          "end": 23.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 22.3,
+          "end": 23.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 24,
+      "end": 26,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 24.3,
+          "end": 25.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 24.3,
+          "end": 25.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 26,
+      "end": 28,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 26.3,
+          "end": 27.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 26.3,
+          "end": 27.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 28,
+      "end": 30,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 28.3,
+          "end": 29.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 28.3,
+          "end": 29.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 30,
+      "end": 32,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 30.3,
+          "end": 31.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 30.3,
+          "end": 31.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 32,
+      "end": 34,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 32.3,
+          "end": 33.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 32.3,
+          "end": 33.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 34,
+      "end": 36,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 34.3,
+          "end": 35.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 34.3,
+          "end": 35.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 36,
+      "end": 38,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 36.3,
+          "end": 37.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 36.3,
+          "end": 37.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 38,
+      "end": 40,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 38.3,
+          "end": 39.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 38.3,
+          "end": 39.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 40.3,
+          "end": 41.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 40.3,
+          "end": 41.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "zh": "这是组件测试字幕",
+      "en": "Component test caption",
+      "highlights": [
+        {
+          "start": 42.3,
+          "end": 43.5,
+          "a": 2,
+          "b": 4
+        }
+      ],
+      "en_highlights": [
+        {
+          "start": 42.3,
+          "end": 43.5,
+          "a": 0,
+          "b": 9
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 2,
+      "kind": "hook",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "left",
+      "theme": "light",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "cut"
+    },
+    {
+      "start": 2,
+      "end": 4,
+      "kind": "cards",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "right",
+      "theme": "dark",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "fade"
+    },
+    {
+      "start": 4,
+      "end": 6,
+      "kind": "bullets",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle_left",
+      "theme": "tech",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "wipe"
+    },
+    {
+      "start": 6,
+      "end": 8,
+      "kind": "steps",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "gold",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "circle"
+    },
+    {
+      "start": 8,
+      "end": 10,
+      "kind": "chat",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "light",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "cut"
+    },
+    {
+      "start": 10,
+      "end": 12,
+      "kind": "file",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "dark",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "fade"
+    },
+    {
+      "start": 12,
+      "end": 14,
+      "kind": "timeline",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "tech",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "wipe"
+    },
+    {
+      "start": 14,
+      "end": 16,
+      "kind": "collection",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "gold",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "circle"
+    },
+    {
+      "start": 16,
+      "end": 18,
+      "kind": "styles",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "light",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "cut"
+    },
+    {
+      "start": 18,
+      "end": 20,
+      "kind": "comparison",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "dark",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "fade"
+    },
+    {
+      "start": 20,
+      "end": 22,
+      "kind": "metric",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "tech",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "wipe",
+      "value": 42,
+      "suffix": "%",
+      "data_note": "虚构数据，仅供组件测试"
+    },
+    {
+      "start": 22,
+      "end": 24,
+      "kind": "quote",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "gold",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "circle",
+      "body": "让信息表达更清楚",
+      "footer": "示例文本",
+      "stamp": "重点提示"
+    },
+    {
+      "start": 24,
+      "end": 26,
+      "kind": "code",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "light",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "cut",
+      "lines": [
+        "step_1 = input",
+        "step_2 = process(step_1)",
+        "result = output(step_2)"
+      ]
+    },
+    {
+      "start": 26,
+      "end": 28,
+      "kind": "orbit",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "dark",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "fade"
+    },
+    {
+      "start": 28,
+      "end": 30,
+      "kind": "curve",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "tech",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "wipe",
+      "values": [
+        2,
+        4,
+        3,
+        7,
+        8
+      ],
+      "data_note": "虚构序列，仅供组件测试"
+    },
+    {
+      "start": 30,
+      "end": 32,
+      "kind": "media",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "gold",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "circle",
+      "media": [
+        "clip_a"
+      ]
+    },
+    {
+      "start": 32,
+      "end": 34,
+      "kind": "triptych",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "none",
+      "theme": "light",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "cut",
+      "media": [
+        "clip_a",
+        "clip_b",
+        "clip_c"
+      ]
+    },
+    {
+      "start": 34,
+      "end": 36,
+      "kind": "player",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "dark",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "fade",
+      "media": [
+        "clip_a"
+      ],
+      "screen": "screen",
+      "player_box": [
+        0.15,
+        0.2,
+        0.85,
+        0.85
+      ]
+    },
+    {
+      "start": 36,
+      "end": 38,
+      "kind": "interaction",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "center",
+      "theme": "tech",
+      "items": [
+        "第一个选项",
+        "第二个选项"
+      ],
+      "transition": "wipe"
+    },
+    {
+      "start": 38,
+      "end": 40,
+      "kind": "gallery",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "gold",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "circle"
+    },
+    {
+      "start": 40,
+      "end": 42,
+      "kind": "stamp",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "circle",
+      "theme": "light",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "cut",
+      "body": "让信息表达更清楚",
+      "footer": "示例文本",
+      "stamp": "重点提示"
+    },
+    {
+      "start": 42,
+      "end": 44,
+      "kind": "end",
+      "title": "组件演示",
+      "sub": "结构示例 · 请按新内容改写",
+      "portrait": "none",
+      "theme": "dark",
+      "items": [
+        "第一阶段",
+        "第二阶段",
+        "第三阶段"
+      ],
+      "transition": "fade",
+      "body": "让信息表达更清楚",
+      "footer": "示例文本",
+      "stamp": "重点提示"
+    }
+  ]
+}

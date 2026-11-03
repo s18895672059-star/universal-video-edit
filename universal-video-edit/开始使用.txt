@@ -1,0 +1,9 @@
+把本文件夹或ZIP与新视频一起发给Codex，发送：
+
+使用 universal-video-edit/SKILL.md 完整剪辑这条视频。按本次输入重新转写、设计分镜和字幕，采用参考风格与通用组件，保证人物清晰。不要使用示例里的文案、品牌和数据。完成预览、渲染与验收，交付MP4和编辑计划。
+
+首次运行与依赖：references/workflow.md
+可用组件与字段：references/components.md
+测试范围与限制：references/validation.md
+
+本包适用于各行业的信息型视频，不绑定任何行业或旧案例。默认渲染器为横屏SDR1080p60；其他画幅和特殊效果由Codex按需要扩展工程。

@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "fps": 60,
+  "output_size": [
+    1920,
+    1080
+  ],
+  "duration": 12,
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "avatar_crop": [
+    0.2,
+    0.1,
+    0.8,
+    0.6
+  ],
+  "music": {
+    "mode": "none"
+  },
+  "assets": {},
+  "captions": [],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 4,
+      "kind": "cards",
+      "title": "功能介绍",
+      "sub": "结构示例，须按输入重写",
+      "portrait": "right",
+      "theme": "light",
+      "items": [
+        "功能目标",
+        "使用场景"
+      ]
+    },
+    {
+      "start": 4,
+      "end": 8,
+      "kind": "steps",
+      "title": "操作流程",
+      "sub": "结构示例，须按输入重写",
+      "portrait": "circle",
+      "theme": "tech",
+      "items": [
+        "输入",
+        "设置",
+        "检查"
+      ]
+    },
+    {
+      "start": 8,
+      "end": 12,
+      "kind": "bullets",
+      "title": "使用总结",
+      "sub": "结构示例，须按输入重写",
+      "portrait": "circle_left",
+      "theme": "light",
+      "items": [
+        "按真实界面讲解"
+      ]
+    }
+  ]
+}

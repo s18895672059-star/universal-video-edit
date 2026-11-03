@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "fps": 60,
+  "output_size": [
+    1920,
+    1080
+  ],
+  "duration": 12,
+  "crop": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "avatar_crop": [
+    0.2,
+    0.1,
+    0.8,
+    0.6
+  ],
+  "music": {
+    "mode": "none"
+  },
+  "assets": {},
+  "captions": [],
+  "scenes": [
+    {
+      "start": 0,
+      "end": 4,
+      "kind": "cards",
+      "title": "产品结构",
+      "sub": "结构示例，须按输入重写",
+      "portrait": "right",
+      "theme": "light",
+      "items": [
+        "部件结构",
+        "装配关系"
+      ]
+    },
+    {
+      "start": 4,
+      "end": 8,
+      "kind": "steps",
+      "title": "工序说明",
+      "sub": "结构示例，须按输入重写",
+      "portrait": "circle",
+      "theme": "tech",
+      "items": [
+        "备料",
+        "装配",
+        "检测"
+      ]
+    },
+    {
+      "start": 8,
+      "end": 12,
+      "kind": "bullets",
+      "title": "检测说明",
+      "sub": "结构示例，须按输入重写",
+      "portrait": "circle_left",
+      "theme": "light",
+      "items": [
+        "以检测记录为准"
+      ]
+    }
+  ]
+}
